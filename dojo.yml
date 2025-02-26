@@ -1,8 +1,6 @@
-id: example
-name: Example Dojo
-type: example
-award:
-  emoji: 😀
+id: az-ctf-2025
+name: Arizona CTF 2025
+type: hidden
 image: pwncollege/challenge-simple
 modules:
   - id: hello
