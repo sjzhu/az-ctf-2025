@@ -1,0 +1,6 @@
+name: Cowherders (Web Security)
+challenges:
+  - id: baron-login 
+    name: Becoming the Baron
+  - id: baron-reflect
+    name: Tricking the Baron
